@@ -64,7 +64,7 @@ export default function HeroSection({ darkMode }: { darkMode: boolean }) {
             darkMode ? 'text-slate-400' : 'text-slate-600'
           }`}
         >
-          Halo, saya <strong className={darkMode ? 'text-slate-200' : 'text-slate-800'}>{PORTFOLIO_DATA.personal.name}</strong>, lulusan <strong className={darkMode ? 'text-blue-400' : 'text-blue-600'}>Teknik Otomasi</strong> yang siap membantu integrasi hardware, pemrograman PLC, dan sistem pemantauan berbasis IoT secara efisien.
+          Halo, iam <strong className={darkMode ? 'text-slate-200' : 'text-slate-800'}>{PORTFOLIO_DATA.personal.name}</strong>, lulusan <strong className={darkMode ? 'text-blue-400' : 'text-blue-600'}>Teknik Otomasi</strong> yang siap membantu integrasi hardware, pemrograman PLC, dan sistem pemantauan berbasis IoT secara efisien.
         </motion.p>
 
         <motion.div

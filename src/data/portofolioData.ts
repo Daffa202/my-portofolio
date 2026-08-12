@@ -47,8 +47,8 @@ export const PORTFOLIO_DATA = {
   personal: {
     name: "MUHAMMAD DAFFA ADITYA SAPUTRA",
     role: "Automation Engineering Student",
-    tagline: "Automation Engineering student with hands-on experience in PLC programming, sensor calibration, and industrial automation projects.",
-    bio: "Automation Engineering student with hands-on experience in PLC programming, sensor calibration, and industrial automation projects. Skilled in system integration, electrical documentation, and troubleshooting control systems to improve efficiency and reliability.",
+    tagline: "Halo , i am Muhammad Daffa Aditya Saputra Automation Engineering graduate with hands-on experience in PLC programming, sensor calibration, electrical drawings and industrial automation projects. Skilled in system integration and control system troubleshooting, with a strong interest in industrial automation and process improvement",
+    bio: "Halo , i am Muhammad Daffa Aditya Saputra Automation Engineering graduate with hands-on experience in PLC programming, sensor calibration, electrical drawings and industrial automation projects. Skilled in system integration and control system troubleshooting, with a strong interest in industrial automation and process improvement",
     status: "Automation Engineering student — Open to opportunities",
     email: "muhammaddaffa158@gmail.com",
     github: "https://github.com",
